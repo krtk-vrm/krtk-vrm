@@ -4,7 +4,7 @@ Hi, I'm Kartik Verma 👋  <br>A curious engineering student who enjoys building
 ## 🧩 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/krtk_vrm/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/krtk_vrm)
-[![GeeksForGeeks](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/krtk)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/krtk/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-verma-7b044437b) 
